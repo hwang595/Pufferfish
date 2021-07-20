@@ -1,0 +1,6 @@
+bit2byte.cpp
+setup.py
+bit2byte.egg-info/PKG-INFO
+bit2byte.egg-info/SOURCES.txt
+bit2byte.egg-info/dependency_links.txt
+bit2byte.egg-info/top_level.txt
